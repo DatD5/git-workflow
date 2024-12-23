@@ -1,1 +1,1 @@
-console.log('products model');
+console.log('products model,thats okay');
